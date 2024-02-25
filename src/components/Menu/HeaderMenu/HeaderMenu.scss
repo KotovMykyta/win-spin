@@ -1,0 +1,12 @@
+.header-menu {
+  height: 55px;
+  padding: 20px;
+  display: flex;
+  justify-content: end;
+  width: -webkit-fill-available;
+  align-items: center;
+
+  img{
+    cursor: pointer;
+  }
+}

@@ -1,0 +1,20 @@
+.bonus-start {
+  height: 375px;
+  position: absolute;
+  top: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: -webkit-fill-available;
+  margin: 0 17px;
+  background-image: url("@/assets/deposit-start_bg.png");
+  background-size: cover;
+  background-position: top;
+  border-radius: 10px;
+  max-width: 380px;
+}
+
+.deposit-and-play-text {
+  position: absolute;
+  margin-top: -170px;
+}

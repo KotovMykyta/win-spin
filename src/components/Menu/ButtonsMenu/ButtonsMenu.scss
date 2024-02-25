@@ -1,0 +1,12 @@
+.buttons-menu {
+  display: flex;
+  justify-content: space-between;
+  width: -webkit-fill-available;
+  align-items: center;
+  padding: 0 17px;
+  margin-bottom: 12px;
+
+  @media (min-width: 768px) {
+    justify-content: center;
+  }
+}

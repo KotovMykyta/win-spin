@@ -1,0 +1,17 @@
+.open-select {
+  height: 312px;
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  z-index: 2;
+  width: 100%;
+  margin-left: -16px;
+  padding: 16px;
+  padding-top: 0;
+
+
+  border-radius: 10px;
+  background: linear-gradient(to bottom, #e4ae0e 0%, #c84f21 50%, #be2828 100%);
+}

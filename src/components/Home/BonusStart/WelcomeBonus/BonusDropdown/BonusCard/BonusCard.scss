@@ -1,0 +1,35 @@
+.bonus-card {
+  height: 96px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 15px;
+  cursor: pointer;
+
+  .bonus-icon {
+    margin-left: 8px;
+  }
+
+  .bonus-desc {
+    color: #fcc211;
+  }
+
+  .bonus-info {
+    margin-left: 16px;
+  }
+
+  .bonus-arrow {
+    position: absolute;
+    right: 13px;
+  }
+
+  .bonus-radio {
+    position: absolute;
+    right: 29px;
+  }
+
+  .line-icon {
+    position: absolute;
+    right: 40px;
+  }
+}

@@ -1,0 +1,19 @@
+.winner-card {
+  margin: 0 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .winner-card-text {
+    display: flex;
+    flex-direction: column;
+    font-weight: 400;
+    font-size: 12px;
+
+    .winner-game {
+      color: #f0b912;
+    }
+  }
+  .winner-card-game-icon{
+    margin-left: 10px;
+  }
+}

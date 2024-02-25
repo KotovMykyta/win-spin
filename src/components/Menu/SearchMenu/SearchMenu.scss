@@ -1,0 +1,23 @@
+.search-menu {
+  width: -webkit-fill-available;
+  margin: 0 17px;
+
+  .custom-input {
+    height: 40px;
+    border-radius: 8.85px;
+    background-color: #232432;
+    border: none;
+    color: #b1b1b1;
+    font-size: 14px;
+    outline: none;
+    padding-left: 59px;
+    width: -webkit-fill-available;
+    font-weight: 400;
+  }
+
+  .zoom-icon{
+    position: absolute;
+    margin-left: 22px;
+    margin-top: 12px;
+  }
+}

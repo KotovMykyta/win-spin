@@ -1,0 +1,10 @@
+.home {
+    height: 512px;
+    background-image: url('@/assets/bg.png');
+    background-size: cover;
+    background-position: top;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
